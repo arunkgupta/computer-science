@@ -2,8 +2,77 @@
 
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
-## [1.2.5] 2015-10-16
 
+## [2.0.1] 2016-04-04
+### Fixed
+- Now students should enroll through our [web app](https://ossu.firebaseapp.com).
+
+## [2.0.0] 2016-03-17
+### Fixed
+- Program Design section course's names and links
+
+### Removed
+- **Introduction to Computer Science**: 
+	- Introduction to Computer Science
+	- Introduction to Computational Thinking and Data Science
+- **Algorithms**
+	- Analysis of Algorithms
+- **Programming Paradigms**
+	- Principles of Reactive Programming
+- **Math (Calculus)**
+	- Multivariable Calculus
+- **Software Architecture**: 
+	- Web Application Architectures
+- **Software Engineering**: 
+	- Agile Development Using Ruby on Rails - Basics
+	- Agile Development Using Ruby on Rails - Advanced
+	- Startup Engineering
+- **Computer Architecture**: 
+	- The Hardware/Software Interface
+- **Operating Systems**: 
+	- Operating System Engineering
+- **Computer Networks**: 
+	- Introduction to Computer Networking
+- **Cryptography**: 
+	- Applied Cryptography
+
+**ps**: These removed courses are now in the [extras](https://github.com/open-source-society/computer-science/tree/master/extras) section.
+
+## [1.3.12] 2016-03-17
+### Added
+- How to collaborate: send new links to the extras section
+
+## [1.3.11] 2016-03-06
+### Fixed
+- Nand to Tetris: change name and url
+- UC Berkeley Agile development: change name and url
+- Direct links to specializations
+
+## [1.3.10] 2016-03-06
+### Fixed
+- Link from Systematic Program Design Part 2 course
+
+## [1.3.9] 2015-11-09
+### Fixed
+- Link for the correct Natural Language Processing course
+
+## [1.3.8] 2015-11-07
+### Added
+- Add "Project Suggestions" section with more references
+
+## [1.3.7] 2015-11-01
+### Removed
+- Removed project.md file, moved to **help** repo
+
+## [1.3.6] 2015-10-22
+### Added
+- Latest version of CS 162, Operating Systems and System Programming
+
+## [1.2.6] 2015-10-19
+### Added
+- Badge/Link to the Awesome list
+
+## [1.2.5] 2015-10-16
 ### Fixed
 - Fix name of the section and add a hyperlink to it.
 
